@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1980" height="218" viewBox="0 0 1980 218">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_19" data-name="長方形 19" width="1980" height="218" transform="translate(495.675 872.162)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="マスクグループ_11" data-name="マスクグループ 11" transform="translate(-495.675 -872.162)" clip-path="url(#clip-path)">
+    <path id="パス_14" data-name="パス 14" d="M3106.237,333.008c-872.985,168.259-807.58-54.375-1367.606,23-173.726,22.84-476.061,83.473-743.228,29.779C764.215,374.662,207.932,367.819,31.193,361.8L0,0,4166.966,185.894S3226.333,322.053,3106.237,333.008Z" transform="translate(3504.681 1180.027) rotate(175)" fill="#fcf7cd"/>
+  </g>
+</svg>
