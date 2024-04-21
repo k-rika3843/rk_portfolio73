@@ -4336,7 +4336,7 @@ nav.globalMenuSp.active {
 
 @media screen and (max-width: 439px) {
   .heading18 {
-    width:150px;
+    width:160px;
     padding: 0px 0 0 0;
     font-size: 32px;
     background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
