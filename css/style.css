@@ -1342,10 +1342,6 @@ section#Banner.banner.section{
 }
 
 @media screen and (max-width: 1024px){
-  .profile-top {
-    margin-top: -10vh;
-  }
-
   body {
     font-size: 20px;
     line-height: 1.7;
@@ -1541,17 +1537,9 @@ section#Banner.banner.section{
 }
 
 /* プロフィール */
-.profile {
-  padding: 0.01px 0;
-  background-color: #FCF7CD;
-}
 
 .profile-title {
   font-size: 36px;
-}
-
-.profile-top{
-  padding-top: 20px;
 }
 
 /* Works */
@@ -1974,15 +1962,8 @@ body {
 }*/
 
 /* プロフィール */
-.profile {
-  padding: 30px 0;
-}
 .profile-title {
   font-size: 36px;
-}
-
-.profile-top{
-  padding-top: 50px;
 }
 
 /* Works */
@@ -2737,17 +2718,9 @@ body {
 }*/
 
 /* プロフィール */
-.profile {
-  padding: 30px 0;
-}
 .profile-title {
   font-size: 36px;
 }
-
-.profile-top{
-  padding-top: 50px;
-}
-
 /* Works */
 .btn-works-wrapper{
   text-align: center;
@@ -3286,8 +3259,8 @@ body {
 }
 
 .profile-top {
-  padding-top: 50px;
-  height:750px;
+  /*padding-top: 50px;
+  height:750px;*/
   background-color: #FCF7CD;
   position: relative;
 }
@@ -3832,17 +3805,9 @@ nav.globalMenuSp.active {
   z-index: 1;
 }
 
-.profile {
-  padding: 30px 0;
-}
 .profile-title {
   font-size: 36px;
 }
-
-.profile-top{
-  padding-top: 50px;
-}
-
 
 /* Works */
 .works{
@@ -4235,15 +4200,8 @@ nav.globalMenuSp.active {
 }
 
 /* プロフィール */
-.profile {
-  padding: 30px 0;
-}
 .profile-title {
   font-size: 36px;
-}
-
-.profile-top{
-  padding-top: 50px;
 }
 
 /* Works */
@@ -4789,16 +4747,12 @@ nav.globalMenuSp.active {
  /* ハンバーガーメニュー　終わり */
 
  /* プロフィール */
-.profile {
-  padding: 30px 0;
-}
 
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
-  padding-top: 50px;
   height:900px;
   background-color: #FCF7CD;
   position: relative;
@@ -6000,16 +5954,11 @@ body {
 }
 
 /* プロフィール */
-.profile {
-  padding: 30px 0;
-}
-
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
-  padding-top: 50px;
   height:900px;
   background-color: #FCF7CD;
   position: relative;
@@ -6593,16 +6542,12 @@ body {
 }
 
 /* プロフィール */
-.profile {
-  padding: 30px 0;
-}
 
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
-  padding-top: 50px;
   height:1000px;
   background-color: #FCF7CD;
   position: relative;
@@ -7007,15 +6952,11 @@ body {
 }
 
 /* プロフィール */
-.profile {
-  padding: 30px 0;
-}
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
-  padding-top: 50px;
   height:1150px;
   background-color: #FCF7CD;
   position: relative;
