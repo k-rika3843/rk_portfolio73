@@ -406,6 +406,13 @@ position:relative;
   background-color: #fff;
 }
 
+.main-visual-img {
+  height: 100vh;
+  background-color: #fff;
+  margin:0;
+  padding:0;
+}
+
 .main01 {
   animation: slideIn01 3s 1;
   position: absolute;
@@ -1479,8 +1486,12 @@ section#Banner.banner.section{
   right: 0;
 }
  /* ハンバーガーメニュー　終わり */
+.mainImage{
+  margin:0;
+  padding:0;
+}
 
-main-visual-img {
+.main-visual-img {
   height: 100vh;
   background-color: #fff;
   margin:0;
