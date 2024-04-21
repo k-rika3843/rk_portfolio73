@@ -1,5 +1,5 @@
 body {
-  font-family:"Hiragino Kaku Gothic ProN";
+  font-family: "Hiragino Kaku Gothic ProN";
   font-size: 14px;
   line-height: 1.8;
   letter-spacing: .8px;
@@ -33,6 +33,18 @@ li {
 }
 img {
   width:100%;
+}
+
+.mainPhoto {
+  width:900px;
+  height: 600px;
+  overflow:hidden;
+  margin:0 auto;
+  position:relative;
+}
+
+h1,h2,h3 {
+  font-size:200%;
 }
 
 p {
@@ -115,10 +127,6 @@ html {
 ---------------------------------*/
 .section {
   padding: 80px 0 5px 0;
-}
-
-section2{
-  padding: 0;
 }
 
 .inner {
@@ -819,7 +827,7 @@ position:relative;
 
 .profile-text {
   max-width: 550px;
-  font-family:'Zen Kaku Gothic New';
+  font-family:'Zen Kaku Gothic New',sans-serif;
   font-size: 23px;
   font-weight:400;
 }
@@ -1346,10 +1354,6 @@ section#Banner.banner.section{
     padding: 40px 0;
   }
 
-  .section02 {
-    padding: 0;
-  }
-
   .inner {
     padding: 0 15px;
   }
@@ -1670,7 +1674,7 @@ section#Banner.banner.section{
 }
 
 .profile {
-  padding: 0;
+  padding: 30px 0;
 }
 
 .profile-title {
@@ -1771,10 +1775,6 @@ body {
 /* レイアウト */
 .section {
   padding: 40px 0;
-}
-
-.section2 {
-  padding:-80px 0 0 0;
 }
 
 .inner {
@@ -1938,9 +1938,8 @@ body {
 
 /* プロフィール */
 .profile {
-  padding: 0;
+  padding: 30px 0;
 }
-
 .profile-title {
   font-size: 36px;
 }
@@ -2505,10 +2504,6 @@ body {
   padding: 40px 0;
 }
 
-.section2 {
-  padding: 0;
-}
-
 .inner {
   padding: 0 15px;
 }
@@ -2675,7 +2670,7 @@ body {
 
 /* プロフィール */
 .profile {
-  padding: 0;
+  padding: 30px 0;
 }
 .profile-title {
   font-size: 36px;
@@ -2981,7 +2976,7 @@ body {
 
  /* プロフィール */
  .profile {
-  padding: 0;
+  padding: 30px 0;
 }
 
 .profile-title {
@@ -3035,10 +3030,6 @@ body {
 /* レイアウト */
 .section {
   padding: 40px 0;
-}
-
-.section2 {
-  padding: 0;
 }
 
 .inner {
@@ -3207,7 +3198,7 @@ body {
 
  /* プロフィール */
 .profile {
-  padding: 0;
+  padding: 30px 0;
 }
 
 .profile-title {
@@ -3551,10 +3542,6 @@ body {
   padding: 40px 0;
 }
 
-.section2 {
-  padding: 0;
-}
-
 .inner {
   padding: 0 15px;
 }
@@ -3756,7 +3743,7 @@ nav.globalMenuSp.active {
 }
 
 .profile {
-  padding: 0;
+  padding: 30px 0;
 }
 .profile-title {
   font-size: 36px;
@@ -3985,10 +3972,6 @@ body {
   padding: 40px 0;
 }
 
-.section2 {
-  padding: 0;
-}
-
 .inner {
   padding: 0 15px;
 }
@@ -4154,7 +4137,7 @@ nav.globalMenuSp.active {
 
 /* プロフィール */
 .profile {
-  padding: 0;
+  padding: 30px 0;
 }
 .profile-title {
   font-size: 36px;
@@ -4699,7 +4682,7 @@ nav.globalMenuSp.active {
 
  /* プロフィール */
 .profile {
-  padding: 0;
+  padding: 30px 0;
 }
 
 .profile-title {
@@ -5281,7 +5264,7 @@ nav.globalMenuSp.active {
 
 /* プロフィール */
 .profile {
-  padding: 0;
+  padding: 30px 0;
 }
 
 .profile-title {
@@ -5420,10 +5403,6 @@ body {
 /* レイアウト */
 .section {
   padding: 40px 0;
-}
-
-.section2 {
-  padding: 0;
 }
 
 .inner {
@@ -5891,7 +5870,7 @@ body {
 
 /* プロフィール */
 .profile {
-  padding: 0;
+  padding: 30px 0;
 }
 
 .profile-title {
@@ -6301,10 +6280,6 @@ body {
   padding: 40px 0;
 }
 
-.section2 {
-  padding: 0;
-}
-
 .inner {
   padding: 0 15px;
 }
@@ -6478,7 +6453,7 @@ body {
 
 /* プロフィール */
 .profile {
-  padding: 0;
+  padding: 30px 0;
 }
 
 .profile-title {
@@ -6712,10 +6687,6 @@ body {
   padding: 40px 0;
 }
 
-.section2 {
-  padding: 0;
-}
-
 .inner {
   padding: 0 15px;
 }
@@ -6886,7 +6857,7 @@ body {
 
 /* プロフィール */
 .profile {
-  padding: 0;
+  padding: 30px 0;
 }
 .profile-title {
   font-size: 36px;
