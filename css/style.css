@@ -1518,7 +1518,7 @@ section#Banner.banner.section{
 }
 
 /* プロフィール */
-.profile {
+/*.profile {
   padding: 0;
   margin:0;
   background-color: #FCF7CD;
@@ -1536,7 +1536,7 @@ section#Banner.banner.section{
 
 .profile-top{
   padding-top: 20px;
-}
+}*/
 
 /* Works */
 /* 見出し */
