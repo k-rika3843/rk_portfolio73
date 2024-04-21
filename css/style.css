@@ -1485,10 +1485,11 @@ section#Banner.banner.section{
 .mainImage{
   margin:0;
   padding:0;
+  margin-bottom:-10vh;
 }
 
 .main-visual-img {
-  margin-bottom:-100px;
+  margin-bottom:-10vh;
 }
 
 .main01 {
