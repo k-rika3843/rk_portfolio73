@@ -505,6 +505,9 @@ position:relative;
   vertical-align:middle;
   width:100%;
   height:100%;
+  top:0;
+  margin:0;
+  padding:0;
 }
 
 #scroll-down {
@@ -5605,6 +5608,10 @@ body {
   vertical-align:middle;
   width:100%;
   height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
 }
 
 #scroll-down {
