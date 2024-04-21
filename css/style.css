@@ -1514,7 +1514,6 @@ section#Banner.banner.section{
   bottom: 0vh;
   left: 0vh;
   padding: 0;
-  margin: -100px;
 }
 
 /* プロフィール */
@@ -1522,6 +1521,7 @@ section#Banner.banner.section{
   padding: 0;
   margin:0;
   background-color: #FCF7CD;
+  margin-top: -50px;
 }
 
 .profile-top{
