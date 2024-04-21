@@ -1522,12 +1522,12 @@ section#Banner.banner.section{
   bottom: 0vh;
   left: 0vh;
   padding: 0;
-  margin: 0;
+  margin-bottom: -50vh;
 }
 
 .main04 {
   position: absolute;
-  bottom: -10vh;
+  margin-bottom: -50vh;
   left: 0vh;
   padding: 0;
   margin: 0;
