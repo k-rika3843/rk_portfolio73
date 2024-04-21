@@ -1,5 +1,5 @@
 body {
-  font-family:"Hiragino Kaku Gothic ProN",sans-serif;
+  font-family:"Hiragino Kaku Gothic ProN";
   font-size: 14px;
   line-height: 1.8;
   letter-spacing: .8px;
@@ -33,18 +33,6 @@ li {
 }
 img {
   width:100%;
-}
-
-.mainPhoto {
-  width:900px;
-  height: 600px;
-  overflow:hidden;
-  margin:0 auto;
-  position:relative;
-}
-
-h1,h2,h3 {
-  font-size:200%;
 }
 
 p {
