@@ -382,6 +382,9 @@ html {
 ---------------------------------*/
 .main-visual-img {
   height: 100vh;
+  background-color: #fff;
+  margin:0;
+  padding:0;
 /*background-image: url(../img/main_bg.png);
   background-repeat: no-repeat;
   background-position: center center;
@@ -389,7 +392,7 @@ html {
   text-align: center;
 position:relative;
   margin-bottom:0;
-  padding-bottom:0; */
+  padding-bottom:0;*/
 }
 
 /*.sub-main-visual-img {
@@ -404,13 +407,6 @@ position:relative;
   /*overflow:hidden;*/
   margin:0 auto;
   background-color: #fff;
-}
-
-.main-visual-img {
-  height: 100vh;
-  background-color: #fff;
-  margin:0;
-  padding:0;
 }
 
 .main01 {
@@ -1910,7 +1906,9 @@ body {
 /* メインビジュアル */
 .main-visual-img {
   height: 100vh;
-  background-color: #ffffff;
+  background-color: #fff;
+  margin:0;
+  padding:0;
 }
 
 .main01 {
@@ -2642,7 +2640,9 @@ body {
 /* メインビジュアル */
 .main-visual-img {
   height: 100vh;
-  background-color: #ffffff;
+  background-color: #fff;
+  margin:0;
+  padding:0;
 }
 
 .main01 {
@@ -3170,7 +3170,9 @@ body {
 /* メインビジュアル */
 .main-visual-img {
   height: 100vh;
-  background-color: #ffffff;
+  background-color: #fff;
+  margin:0;
+  padding:0;
 }
 
 .main01 {
@@ -3679,7 +3681,9 @@ nav.globalMenuSp.active {
 /* メインビジュアル */
 .main-visual-img {
   height: 100vh;
-  background-color: #ffffff;
+  background-color: #fff;
+  margin:0;
+  padding:0;
 }
 
 .main01 {
@@ -4109,7 +4113,9 @@ nav.globalMenuSp.active {
 /* メインビジュアル */
 .main-visual-img {
   height: 100vh;
-  background-color: #ffffff;
+  background-color: #fff;
+  margin:0;
+  padding:0;
 }
 
 .main01 {
@@ -5548,7 +5554,9 @@ body {
 /* メインビジュアル */
 .main-visual-img {
   height: 100vh;
-  background-color: #ffffff;
+  background-color: #fff;
+  margin:0;
+  padding:0;
 }
 
 .main01 {
@@ -6424,7 +6432,9 @@ body {
 /* メインビジュアル */
 .main-visual-img {
   height: 100vh;
-  background-color: #ffffff;
+  background-color: #fff;
+  margin:0;
+  padding:0;
 }
 
 .main01 {
@@ -6829,7 +6839,9 @@ body {
 /* メインビジュアル */
 .main-visual-img {
   height: 100vh;
-  background-color: #ffffff;
+  background-color: #fff;
+  margin:0;
+  padding:0;
 }
 
 .main01 {
