@@ -1493,7 +1493,7 @@ section#Banner.banner.section{
 }
 
 .main-visual-img {
-  height: 100vh;
+  height: 90vh;
   background-color: #fff;
   margin:0;
   padding:0;
@@ -1536,7 +1536,7 @@ section#Banner.banner.section{
 }
 
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 /* Works */
@@ -1690,7 +1690,7 @@ section#Banner.banner.section{
 }
 
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top {
@@ -1913,7 +1913,7 @@ body {
 
 /* メインビジュアル */
 .main-visual-img {
-  height: 100vh;
+  height: 90vh;
   background-color: #fff;
   margin:0;
   padding:0;
@@ -1955,7 +1955,7 @@ body {
   padding: 30px 0;
 }
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top{
@@ -2647,7 +2647,7 @@ body {
 
 /* メインビジュアル */
 .main-visual-img {
-  height: 100vh;
+  height: 90vh;
   background-color: #fff;
   margin:0;
   padding:0;
@@ -2689,7 +2689,7 @@ body {
   padding: 30px 0;
 }
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top{
@@ -2996,7 +2996,7 @@ body {
 }
 
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top {
@@ -3177,7 +3177,7 @@ body {
 
 /* メインビジュアル */
 .main-visual-img {
-  height: 100vh;
+  height: 90vh;
   background-color: #fff;
   margin:0;
   padding:0;
@@ -3220,7 +3220,7 @@ body {
 }
 
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top {
@@ -3688,7 +3688,7 @@ nav.globalMenuSp.active {
 
 /* メインビジュアル */
 .main-visual-img {
-  height: 100vh;
+  height: 90vh;
   background-color: #fff;
   margin:0;
   padding:0;
@@ -3766,7 +3766,7 @@ nav.globalMenuSp.active {
   padding: 30px 0;
 }
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top{
@@ -4120,7 +4120,7 @@ nav.globalMenuSp.active {
 
 /* メインビジュアル */
 .main-visual-img {
-  height: 100vh;
+  height: 90vh;
   background-color: #fff;
   margin:0;
   padding:0;
@@ -4162,7 +4162,7 @@ nav.globalMenuSp.active {
   padding: 30px 0;
 }
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top{
@@ -4274,7 +4274,7 @@ nav.globalMenuSp.active {
 
 @media screen and (max-width: 430px) {
   .main-visual-img {
-    height: 100vh;
+    height: 90vh;
     background-color: #fff;
     margin:0;
     padding:0;
@@ -4714,7 +4714,7 @@ nav.globalMenuSp.active {
 }
 
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top {
@@ -5296,7 +5296,7 @@ nav.globalMenuSp.active {
 }
 
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top {
@@ -5567,7 +5567,7 @@ body {
 
 /* メインビジュアル */
 .main-visual-img {
-  height: 100vh;
+  height: 90vh;
   background-color: #fff;
   margin:0;
   padding:0;
@@ -5904,7 +5904,7 @@ body {
 }
 
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top {
@@ -6445,7 +6445,7 @@ body {
 
 /* メインビジュアル */
 .main-visual-img {
-  height: 100vh;
+  height: 90vh;
   background-color: #fff;
   margin:0;
   padding:0;
@@ -6489,7 +6489,7 @@ body {
 }
 
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top {
@@ -6852,7 +6852,7 @@ body {
   
 /* メインビジュアル */
 .main-visual-img {
-  height: 100vh;
+  height: 90vh;
   background-color: #fff;
   margin:0;
   padding:0;
@@ -6894,7 +6894,7 @@ body {
   padding: 30px 0;
 }
 .profile-title {
-  font-size: 0px;
+  font-size: 36px;
 }
 
 .profile-top {
