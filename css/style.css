@@ -1522,7 +1522,7 @@ section#Banner.banner.section{
   bottom: 0vh;
   left: 0vh;
   padding: 0;
-  margin-bottom: -50vh;
+  margin-bottom: -70vh;
 }
 
 .main04 {
@@ -7175,5 +7175,25 @@ body {
 /* フッター */
 .footer {
   padding: 20px 0;
+}
+}
+
+
+@media screen and (max-width: 1024px) {
+.main03 {
+  animation: slideIn03 3s 1;
+  position: absolute;
+  bottom: 0vh;
+  left: 0vh;
+  padding: 0;
+  margin-bottom: -70vh;
+}
+
+.main04 {
+  position: absolute;
+  margin-bottom: -50vh;
+  left: 0vh;
+  padding: 0;
+  margin: 0;
 }
 }
