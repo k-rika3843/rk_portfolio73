@@ -1516,28 +1516,6 @@ section#Banner.banner.section{
   padding: 0;
 }
 
-/* プロフィール */
-.profile {
-  padding: 0;
-  margin:0;
-  background-color: #FCF7CD;
-  padding-top: -20px;
-}
-
-.profile-top{
-  padding: 0;
-  margin:0;
-  background-color: #FCF7CD;
-}
-
-.profile-title {
-  font-size: 36px;
-}
-
-.profile-top{
-  padding-top: 20px;
-}
-
 /* Works */
 /* 見出し */
 .heading11 {
@@ -1710,6 +1688,28 @@ section#Banner.banner.section{
 
 .skill-item:last-child {
   margin-bottom: 0;
+}
+
+/* プロフィール */
+.profile {
+  padding: 0;
+  margin:0;
+  background-color: #FCF7CD;
+  padding-top: -20px;
+}
+
+.profile-top{
+  padding: 0;
+  margin:0;
+  background-color: #FCF7CD;
+}
+
+.profile-title {
+  font-size: 36px;
+}
+
+.profile-top{
+  padding-top: 20px;
 }
 
 /* Banner */
