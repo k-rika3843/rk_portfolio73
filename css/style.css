@@ -7186,14 +7186,17 @@ body {
   bottom: 0vh;
   left: 0vh;
   padding: 0;
-  margin-bottom: -70vh;
+  margin-bottom: -5vh;
 }
 
 .main04 {
   position: absolute;
-  margin-bottom: -50vh;
+  margin-bottom: -7vh;
   left: 0vh;
   padding: 0;
   margin: 0;
+}
+.profile{
+  top:-4vh;
 }
 }
