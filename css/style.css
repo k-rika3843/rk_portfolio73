@@ -1256,6 +1256,16 @@ section#Banner.banner.section{
     width: 101vw;
   }
 
+  #scroll-icon-inner {
+    display: table-cell;
+    vertical-align:middle;
+    width:100%;
+    height:100%;
+    top:0;
+    margin:0;
+    padding:0;
+  }
+
 }
 
 @media screen and (min-width: 1025px){
@@ -1492,6 +1502,16 @@ section#Banner.banner.section{
  /* ハンバーガーメニュー　終わり */
 
 /* メインビジュアル */
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
+
 .main-visual-img {
   height: 100vh;
   background-color: #fff;
@@ -1903,6 +1923,16 @@ body {
  /* ハンバーガーメニュー　終わり */
 
 /* メインビジュアル */
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
+
 .main-visual-img {
   height: 100vh;
   background-color: #ffffff;
@@ -2185,10 +2215,31 @@ body {
   color: #ED9215;
   font-size: 50px;
 }
+
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
+
 }
 
 @media screen and (max-width: 853px) {
-/* Works */
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
+
+  /* Works */
 .tab-wrap {
   display: flex;
   justify-content: center;
@@ -2635,6 +2686,16 @@ body {
  /* ハンバーガーメニュー　終わり */
 
 /* メインビジュアル */
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
+
 .main-visual-img {
   height: 100vh;
   background-color: #ffffff;
@@ -3163,6 +3224,16 @@ body {
  /* ハンバーガーメニュー　終わり */
 
 /* メインビジュアル */
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
+
 .main-visual-img {
   height: 100vh;
   background-color: #ffffff;
@@ -3198,6 +3269,8 @@ body {
   height: 100px;
   background-image: url(../img/main_sp.jpg);
 }*/
+
+
 
  /* プロフィール */
 .profile {
@@ -3421,6 +3494,7 @@ body {
 .skill-item:last-child {
   margin-bottom: 0;
 }
+
 
 /* Works */
 .btn-works-wrapper{
@@ -3707,6 +3781,15 @@ nav.globalMenuSp.active {
   height: 100px;
   background-image: url(../img/main_sp.jpg);
 }*/
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
 
 /* プロフィール */
  /* 吹き出し */
@@ -4137,6 +4220,15 @@ nav.globalMenuSp.active {
   height: 100px;
   background-image: url(../img/main_sp.jpg);
 }*/
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
 
 /* プロフィール */
 .profile {
@@ -4254,7 +4346,16 @@ nav.globalMenuSp.active {
 }
 
 @media screen and (max-width: 430px) {
-/* Works */
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
+  /* Works */
 .works{
   margin-top: 400px;
 }
@@ -4952,6 +5053,16 @@ nav.globalMenuSp.active {
   z-index: 1;
 }
 
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
+
 /* Works */
 .btn-works-wrapper{
   text-align: center;
@@ -5288,12 +5399,22 @@ nav.globalMenuSp.active {
 }
 
 @media screen and (max-width: 390px) {
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
+
 .header-logo img{
-  position: absolute;
-  margin-top:-1px;
-  left:15px;
-  width:54px;
-  }
+position: absolute;
+margin-top:-1px;
+left:15px;
+width:54px;
+}
 
 .header{
   height: 65px;
@@ -6457,6 +6578,16 @@ body {
   background-image: url(../img/main_sp.jpg);
 }*/
 
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
+
 /* プロフィール */
 .profile {
   padding: 30px 0;
@@ -6860,6 +6991,16 @@ body {
   height: 100px;
   background-image: url(../img/main_sp.jpg);
 }*/
+
+#scroll-icon-inner {
+  display: table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:100%;
+  top:0;
+  margin:0;
+  padding:0;
+}
 
 /* プロフィール */
 .profile {
