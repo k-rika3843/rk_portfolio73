@@ -1,4 +1,5 @@
 body {
+  -webkit-text-size-adjust: 100%;
   font-family: "Hiragino Kaku Gothic ProN";
   font-size: 14px;
   line-height: 1.8;
@@ -101,6 +102,11 @@ html {
   box-sizing: border-box;
   -webkit-transition: all .2s cubic-bezier(.785,.135,.15,.86);
   transition: all .2s cubic-bezier(.785,.135,.15,.86);
+}
+
+#firstView {
+  height: 100vh;   /* ※非対応ブラウザ対策 */
+  height: calc(var(--vh) * 100);
 }
 
 /*--------------------------------
