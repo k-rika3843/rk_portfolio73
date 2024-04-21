@@ -7186,7 +7186,7 @@ body {
   bottom: 0vh;
   left: 0vh;
   padding: 0;
-  margin-bottom: -5vh;
+  margin-bottom: -6vh;
 }
 
 .main04 {
@@ -7197,6 +7197,6 @@ body {
   margin: 0;
 }
 .profile{
-  top:-4vh;
+  top:-8px;
 }
 }
