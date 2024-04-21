@@ -4355,6 +4355,13 @@ nav.globalMenuSp.active {
     margin:0;
     padding:0;
   }
+  .main03 {
+    animation: slideIn03 3s 1;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    margin-bottom: -60px;
+  }
 }
 
 @media screen and (max-width: 430px) {
