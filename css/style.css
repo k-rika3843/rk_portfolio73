@@ -435,7 +435,8 @@ position:relative;
 .main04 {
   position: absolute;
   bottom: -10vh;
-  right: 0px;
+  right: 0vh;
+  margin-bottom: -50px;
 }
 
 @keyframes slideIn01 {
