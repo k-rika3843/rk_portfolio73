@@ -7183,7 +7183,7 @@ body {
 .main03 {
   animation: slideIn03 3s 1;
   position: absolute;
-  bottom: -7vh;
+  bottom: -12vh;
   left: 0vh;
   padding: 0;
   margin-bottom: -6vh;
@@ -7197,6 +7197,6 @@ body {
   margin: 0;
 }
 .profile{
-  top:-8px;
+  top:-11px;
 }
 }
