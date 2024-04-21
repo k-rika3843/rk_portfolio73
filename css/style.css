@@ -1528,6 +1528,7 @@ section#Banner.banner.section{
   padding: 0;
   margin:0;
   background-color: #FCF7CD;
+  margin-top:-10px;
 }
 
 .profile-title {
