@@ -432,6 +432,13 @@ position:relative;
   right: 0px;
 }
 
+.main04 {
+  animation: slideIn03 3s 1;
+  position: absolute;
+  bottom: -40px;
+  right: 0px;
+}
+
 @keyframes slideIn01 {
   0% {
     opacity: 0;
@@ -803,6 +810,7 @@ position:relative;
 }
 
 .profile-list {
+  display: block;
   margin-bottom: 0;
 }
 
@@ -850,7 +858,7 @@ position:relative;
 ---------------------------------*/
 .works{
   margin-top: -470px;
-  padding-top: 400px;
+  padding-top: 420px;
   margin-bottom: -100px;
   background-color: #e5e5f7;
   background-image:  linear-gradient(#f1ebe2 1px, transparent 1px), linear-gradient(to right, #f1ebe2 1px, #fff 1px);
@@ -1485,15 +1493,14 @@ section#Banner.banner.section{
 .mainImage{
   margin:0;
   padding:0;
-  margin-bottom: -5vh;
 }
 
-/*.main-visual-img {
+.main-visual-img {
   height: 100vh;
   background-color: #fff;
   margin:0;
   padding:0;
-}*/
+}
 
 .main01 {
   animation: slideIn01 3s 1;
@@ -1515,29 +1522,8 @@ section#Banner.banner.section{
   bottom: 0vh;
   left: 0vh;
   padding: 0;
-  margin-bottom:-8vh;
+  margin: 0;
 }
-
-/* プロフィール */
-/*.profile {
-  padding: 0;
-  margin:0;
-  background-color: #FCF7CD;
-}
-
-.profile-top{
-  padding: 0;
-  margin:0;
-  background-color: #FCF7CD;
-}
-
-.profile-title {
-  font-size: 36px;
-}
-
-.profile-top{
-  padding-top: 20px;
-}*/
 
 /* Works */
 /* 見出し */
@@ -1676,6 +1662,7 @@ section#Banner.banner.section{
 }
 
 /* Skill */
+/* プロフィール */
 .profile-list {
   display: block;
   margin-bottom: 0;
@@ -1687,6 +1674,7 @@ section#Banner.banner.section{
 
 .profile {
   padding: 30px 0;
+  background-color: #FCF7CD;
 }
 
 .profile-title {
@@ -1698,7 +1686,6 @@ section#Banner.banner.section{
   height:750px;
   background-color: #FCF7CD;
   position: relative;
-  margin-top:-30px;
 }
 
 .profile-bottom{
