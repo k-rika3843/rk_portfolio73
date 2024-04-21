@@ -1,5 +1,5 @@
 body {
-  font-family: "Hiragino Kaku Gothic ProN",sans-serif;
+  font-family: "Lato","Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans","Bodoni Moda",serif,Meiryo,sans-serif;
   font-size: 14px;
   line-height: 1.8;
   letter-spacing: .8px;
@@ -126,7 +126,7 @@ html {
  レイアウト
 ---------------------------------*/
 .section {
-  padding: 80px 0 5px 0;
+  padding: 0px 0 5px 0;
 }
 
 .inner {
@@ -1682,7 +1682,7 @@ section#Banner.banner.section{
 }
 
 .profile-top {
-  padding-top: 0px;
+  padding-top: 50px;
   height:750px;
   background-color: #FCF7CD;
   position: relative;
@@ -1945,7 +1945,7 @@ body {
 }
 
 .profile-top{
-  padding-top: 0px;
+  padding-top: 50px;
 }
 
 /* Works */
@@ -2677,7 +2677,7 @@ body {
 }
 
 .profile-top{
-  padding-top: 0px;
+  padding-top: 50px;
 }
 
 /* Works */
@@ -2984,7 +2984,7 @@ body {
 }
 
 .profile-top {
-  padding-top: 0px;
+  padding-top: 50px;
   height:750px;
   background-color: #FCF7CD;
   position: relative;
@@ -3206,7 +3206,7 @@ body {
 }
 
 .profile-top {
-  padding-top: 0px;
+  padding-top: 50px;
   height:750px;
   background-color: #FCF7CD;
   position: relative;
@@ -3750,7 +3750,7 @@ nav.globalMenuSp.active {
 }
 
 .profile-top{
-  padding-top: 0px;
+  padding-top: 50px;
 }
 
 
@@ -4144,7 +4144,7 @@ nav.globalMenuSp.active {
 }
 
 .profile-top{
-  padding-top: 0px;
+  padding-top: 50px;
 }
 
 /* Works */
@@ -4690,7 +4690,7 @@ nav.globalMenuSp.active {
 }
 
 .profile-top {
-  padding-top: 0px;
+  padding-top: 50px;
   height:900px;
   background-color: #FCF7CD;
   position: relative;
@@ -5272,7 +5272,7 @@ nav.globalMenuSp.active {
 }
 
 .profile-top {
-  padding-top: 0px;
+  padding-top: 50px;
   height:900px;
   background-color: #FCF7CD;
   position: relative;
@@ -5878,7 +5878,7 @@ body {
 }
 
 .profile-top {
-  padding-top: 0px;
+  padding-top: 50px;
   height:900px;
   background-color: #FCF7CD;
   position: relative;
@@ -6461,7 +6461,7 @@ body {
 }
 
 .profile-top {
-  padding-top: 0px;
+  padding-top: 50px;
   height:1000px;
   background-color: #FCF7CD;
   position: relative;
@@ -6864,7 +6864,7 @@ body {
 }
 
 .profile-top {
-  padding-top: 0px;
+  padding-top: 50px;
   height:1150px;
   background-color: #FCF7CD;
   position: relative;
