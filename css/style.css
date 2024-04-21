@@ -433,7 +433,6 @@ position:relative;
 }
 
 .main04 {
-  animation: slideIn03 3s 1;
   position: absolute;
   bottom: -40px;
   right: 0px;
