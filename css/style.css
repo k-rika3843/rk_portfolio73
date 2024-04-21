@@ -1489,10 +1489,10 @@ section#Banner.banner.section{
  /* ハンバーガーメニュー　終わり */
 
 /* メインビジュアル */
-.main-visual-img {
+/*.main-visual-img {
   height: 100vh;
   background-color: #fff;
-}
+}*/
 
 .main01 {
   animation: slideIn01 3s 1;
