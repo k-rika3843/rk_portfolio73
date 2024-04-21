@@ -145,7 +145,7 @@ button.btn {
 .balloon::before {  
   content: "";
   position: absolute;
-  top: -19px;
+  top: -18px;
   left: 50%;
   transform: translateX(-50%);
   border: 8px solid transparent;
@@ -3739,7 +3739,7 @@ nav.globalMenuSp.active {
 .balloon::before {  
   content: "";
   position: absolute;
-  top: -19px;
+  top: -18px;
   left: 50%;
   transform: translateX(-50%);
   border: 8px solid transparent;
@@ -4741,7 +4741,7 @@ nav.globalMenuSp.active {
 .balloon::before {  
   content: "";
   position: absolute;
-  top: -19px;
+  top: -18px;
   left: 50%;
   transform: translateX(-50%);
   border: 8px solid transparent;
@@ -4954,7 +4954,7 @@ nav.globalMenuSp.active {
 .balloon::before {  
   content: "";
   position: absolute;
-  top: -19px;
+  top: -18px;
   left: 50%;
   transform: translateX(-50%);
   border: 8px solid transparent;
@@ -5931,7 +5931,7 @@ body {
 .balloon::before {  
   content: "";
   position: absolute;
-  top: -19px;
+  top: -18px;
   left: 50%;
   transform: translateX(-50%);
   border: 8px solid transparent;
