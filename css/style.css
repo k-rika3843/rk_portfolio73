@@ -1670,7 +1670,7 @@ section#Banner.banner.section{
 }
 
 .profile {
-  padding: 30px 0;
+  padding: 0;
 }
 
 .profile-title {
@@ -1774,8 +1774,7 @@ body {
 }
 
 .section2 {
-  margin:-80px 0 0 0;
-  padding: 0;
+  padding:-80px 0 0 0;
 }
 
 .inner {
@@ -1939,8 +1938,9 @@ body {
 
 /* プロフィール */
 .profile {
-  padding: 30px 0;
+  padding: 0;
 }
+
 .profile-title {
   font-size: 36px;
 }
@@ -2675,7 +2675,7 @@ body {
 
 /* プロフィール */
 .profile {
-  padding: 30px 0;
+  padding: 0;
 }
 .profile-title {
   font-size: 36px;
@@ -2981,7 +2981,7 @@ body {
 
  /* プロフィール */
  .profile {
-  padding: 30px 0;
+  padding: 0;
 }
 
 .profile-title {
@@ -3207,7 +3207,7 @@ body {
 
  /* プロフィール */
 .profile {
-  padding: 30px 0;
+  padding: 0;
 }
 
 .profile-title {
@@ -3756,7 +3756,7 @@ nav.globalMenuSp.active {
 }
 
 .profile {
-  padding: 30px 0;
+  padding: 0;
 }
 .profile-title {
   font-size: 36px;
@@ -4154,7 +4154,7 @@ nav.globalMenuSp.active {
 
 /* プロフィール */
 .profile {
-  padding: 30px 0;
+  padding: 0;
 }
 .profile-title {
   font-size: 36px;
@@ -4699,7 +4699,7 @@ nav.globalMenuSp.active {
 
  /* プロフィール */
 .profile {
-  padding: 30px 0;
+  padding: 0;
 }
 
 .profile-title {
@@ -5281,7 +5281,7 @@ nav.globalMenuSp.active {
 
 /* プロフィール */
 .profile {
-  padding: 30px 0;
+  padding: 0;
 }
 
 .profile-title {
@@ -5891,7 +5891,7 @@ body {
 
 /* プロフィール */
 .profile {
-  padding: 30px 0;
+  padding: 0;
 }
 
 .profile-title {
@@ -6478,7 +6478,7 @@ body {
 
 /* プロフィール */
 .profile {
-  padding: 30px 0;
+  padding: 0;
 }
 
 .profile-title {
@@ -6886,7 +6886,7 @@ body {
 
 /* プロフィール */
 .profile {
-  padding: 30px 0;
+  padding: 0;
 }
 .profile-title {
   font-size: 36px;
