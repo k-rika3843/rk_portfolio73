@@ -36,18 +36,6 @@ img {
   width:100%;
 }
 
-.mainPhoto {
-  width:900px;
-  height: 600px;
-  overflow:hidden;
-  margin:0 auto;
-  position:relative;
-}
-
-h1,h2,h3 {
-  font-size:200%;
-}
-
 p {
   font-size:16px;
 }
@@ -108,6 +96,7 @@ html {
   height: 100vh;   /* ※非対応ブラウザ対策 */
   height: calc(var(--vh) * 100);
 }
+
 
 /*--------------------------------
  Webフォント
@@ -433,6 +422,7 @@ position:relative;
   top: 44%;
   left: 50%;
   transform: translate(-50%, -50%);
+  margin-bottom: 0;
 }
 
 .main03 {
@@ -813,10 +803,6 @@ position:relative;
   height:770px;
   padding: 0 0 6.7vh 0;
   margin-top:0px;
-}
-
-.profile-top{
-  top:-100px;
 }
 
 .profile-list {
