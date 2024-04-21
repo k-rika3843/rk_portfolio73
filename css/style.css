@@ -4265,6 +4265,12 @@ nav.globalMenuSp.active {
 }
 
 @media screen and (max-width: 430px) {
+  .main-visual-img {
+    height: 98vh;
+    background-color: #fff;
+    margin:0;
+    padding:0;
+  }
 /* Works */
 /*.works{
   margin-top: 400px;
@@ -4753,8 +4759,8 @@ nav.globalMenuSp.active {
  .banner-item{
   position: relative;
   display: inline-block;
-  width: 187px;
-  height: 187px;
+  width: 185px;
+  height: 185px;
   margin: 5px;
   padding: 10px;
   background: #fff;
@@ -4793,16 +4799,16 @@ nav.globalMenuSp.active {
 .banner_img{
   position: relative;
   overflow: hidden;
-  width: 163px;
-  height: 163px;
+  width: 161px;
+  height: 161px;
 }
 
 .banner_img img{
   position: absolute;
   width: auto;
   height: auto;
-  max-width: 153px;
-  max-height: 153px;
+  max-width: 151px;
+  max-height: 151px;
   top: 0;
   bottom: 0;
   left: 0;
