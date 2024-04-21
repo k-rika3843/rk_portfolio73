@@ -82,3 +82,9 @@ $(layer).add(close).click(function() {
   // サイトのスクロール禁止を解除する
   $('html, body').removeAttr('style');
 });
+
+const firstViewHeight = () => {
+  const vh = window.innerHeight * 0.01;   //①
+  document.getElementById('firstView').style.setProperty('--vh', `${vh}px`);  //②
+}
+window.addEventListener('resize', firstViewHeight);  //③
