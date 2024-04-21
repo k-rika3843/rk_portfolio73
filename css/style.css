@@ -496,7 +496,7 @@ position:relative;
     }
 }
 
-#scroll-icon-inner {
+.scroll-icon-inner {
   display: table-cell;
   vertical-align:middle;
   width:100%;
@@ -1519,7 +1519,14 @@ section#Banner.banner.section{
 
 /* プロフィール */
 .profile {
-  padding: 0.01px 0;
+  padding: 0;
+  margin:0;
+  background-color: #FCF7CD;
+}
+
+.profile-top{
+  padding: 0;
+  margin:0;
   background-color: #FCF7CD;
 }
 
