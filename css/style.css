@@ -1,3 +1,31 @@
+@charset "UTF-8";
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  /*font-size: 62.5%;/*rem算出をしやすくするために*/
+}
+
+.cf:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+*, ::after, ::before {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all .2s cubic-bezier(.785,.135,.15,.86);
+  transition: all .2s cubic-bezier(.785,.135,.15,.86);
+}
+
 body {
   font-family: "Hiragino Kaku Gothic ProN";
   font-size: 14px;
@@ -67,33 +95,6 @@ button.btn {
   border-radius: 0.5rem;
 }
 
-/**,
-*:before,
-*:after {
-  -webkit-box-sizing: inherit;
-  box-sizing: inherit;
-}*/
-
-html {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  /*font-size: 62.5%;/*rem算出をしやすくするために*/
-}
-
-.cf:after {
-  content: "";
-  display: block;
-  clear: both;
-}
-
-*, ::after, ::before {
-  margin: 0;
-  padding: 0;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-transition: all .2s cubic-bezier(.785,.135,.15,.86);
-  transition: all .2s cubic-bezier(.785,.135,.15,.86);
-}
 
 /*--------------------------------
  Webフォント
@@ -802,7 +803,6 @@ position:relative;
 }
 
 .profile-list {
-  display: block;
   margin-bottom: 0;
 }
 
@@ -842,7 +842,7 @@ position:relative;
 .profile-top {
   height:615px;
   background-color: #FCF7CD;
-  position: relative;
+  position:relative;
 }
 
 /*--------------------------------
