@@ -4345,7 +4345,7 @@ nav.globalMenuSp.active {
 }
 }
 
-@media screen and (max-width: 439px) {
+@media screen and (max-width: 440px) {
   #scroll-icon-inner {
     display: table-cell;
     vertical-align:middle;
@@ -4356,11 +4356,7 @@ nav.globalMenuSp.active {
     padding:0;
   }
   .main03 {
-    animation: slideIn03 3s 1;
-    position: absolute;
-    bottom: 0px;
-    right: 0px;
-    margin-bottom: -60px;
+    margin-bottom: -100px;
   }
 }
 
