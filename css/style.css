@@ -815,6 +815,10 @@ position:relative;
   margin-top:0px;
 }
 
+.profile-top{
+  top:-100px;
+}
+
 .profile-list {
   display: block;
   margin-bottom: 0;
