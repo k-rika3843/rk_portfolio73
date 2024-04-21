@@ -1485,6 +1485,7 @@ section#Banner.banner.section{
 .mainImage{
   margin:0;
   padding:0;
+  margin-bottom: -5vh;
 }
 
 /*.main-visual-img {
