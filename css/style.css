@@ -35,14 +35,6 @@ img {
   width:100%;
 }
 
-.mainPhoto {
-  width:900px;
-  height: 600px;
-  overflow:hidden;
-  margin:0 auto;
-  position:relative;
-}
-
 h1,h2,h3 {
   font-size:200%;
 }
@@ -1488,11 +1480,12 @@ section#Banner.banner.section{
 }
  /* ハンバーガーメニュー　終わり */
 
-/* メインビジュアル */
-/*.main-visual-img {
+main-visual-img {
   height: 100vh;
   background-color: #fff;
-}*/
+  margin:0;
+  padding:0;
+}
 
 .main01 {
   animation: slideIn01 3s 1;
