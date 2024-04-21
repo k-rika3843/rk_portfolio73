@@ -1485,12 +1485,14 @@ section#Banner.banner.section{
 .mainImage{
   margin:0;
   padding:0;
-  margin-bottom:-10vh;
 }
 
-.main-visual-img {
-  margin-bottom:-10vh;
-}
+/*.main-visual-img {
+  height: 100vh;
+  background-color: #fff;
+  margin:0;
+  padding:0;
+}*/
 
 .main01 {
   animation: slideIn01 3s 1;
@@ -1512,7 +1514,7 @@ section#Banner.banner.section{
   bottom: 0vh;
   left: 0vh;
   padding: 0;
-  margin-bottom:-5vh;
+  margin-bottom:-6vh;
 }
 
 /* プロフィール */
