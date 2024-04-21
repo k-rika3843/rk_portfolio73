@@ -1521,7 +1521,7 @@ section#Banner.banner.section{
   padding: 0;
   margin:0;
   background-color: #FCF7CD;
-  padding-top: 10px;
+  padding-top: -20px;
 }
 
 .profile-top{
