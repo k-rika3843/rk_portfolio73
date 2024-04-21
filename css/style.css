@@ -1487,12 +1487,9 @@ section#Banner.banner.section{
   padding:0;
 }
 
-/*.main-visual-img {
-  height: 100vh;
-  background-color: #fff;
-  margin:0;
-  padding:0;
-}*/
+.main-visual-img {
+  margin-bottom:-70px;
+}
 
 .main01 {
   animation: slideIn01 3s 1;
