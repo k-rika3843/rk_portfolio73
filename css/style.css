@@ -1342,6 +1342,10 @@ section#Banner.banner.section{
 }
 
 @media screen and (max-width: 1024px){
+  .profile {
+    padding: -5vh 0 6.7vh 0;
+  }
+
   body {
     font-size: 20px;
     line-height: 1.7;
