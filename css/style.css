@@ -805,8 +805,12 @@ position:relative;
 ---------------------------------*/
 .profile {
   height:770px;
-  padding: 0 0 6.7vh 0;
+  padding: 0vh 0 6.7vh 0;
   margin-top:0px;
+}
+
+.profile-top {
+  padding-top: 0vh 0 6.7vh 0;
 }
 
 .profile-list {
@@ -4343,21 +4347,6 @@ nav.globalMenuSp.active {
 .footer {
   padding: 20px 0;
 }
-}
-
-@media screen and (max-width: 440px) {
-  #scroll-icon-inner {
-    display: table-cell;
-    vertical-align:middle;
-    width:100%;
-    height:100%;
-    top:0;
-    margin:0;
-    padding:0;
-  }
-  .main03 {
-    margin-bottom: -100px;
-  }
 }
 
 @media screen and (max-width: 430px) {
