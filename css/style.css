@@ -1689,7 +1689,7 @@ section#Banner.banner.section{
 }
 
 .profile {
-  padding: 30px 0;
+  padding: 0px;
 }
 
 .profile-title {
@@ -1697,7 +1697,7 @@ section#Banner.banner.section{
 }
 
 .profile-top {
-  padding-top: 50px;
+  padding-top: 0px;
   height:750px;
   background-color: #FCF7CD;
   position: relative;
@@ -3016,16 +3016,11 @@ body {
 }
 
  /* プロフィール */
- .profile {
-  padding: 30px 0;
-}
-
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
-  padding-top: 50px;
   height:750px;
   background-color: #FCF7CD;
   position: relative;
@@ -3250,9 +3245,6 @@ body {
 
 
  /* プロフィール */
-.profile {
-  padding: 30px 0;
-}
 
 .profile-title {
   font-size: 36px;
@@ -5335,16 +5327,12 @@ nav.globalMenuSp.active {
 }
 
 /* プロフィール */
-.profile {
-  padding: 30px 0;
-}
 
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
-  padding-top: 50px;
   height:900px;
   background-color: #FCF7CD;
   position: relative;
