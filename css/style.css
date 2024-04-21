@@ -1503,6 +1503,8 @@ section#Banner.banner.section{
 
 .main02 {
   width: 64vh;
+  padding: 0;
+  margin: 0;
   transform: translate(-50%, -50%);
 }
 
@@ -1511,6 +1513,8 @@ section#Banner.banner.section{
   position: absolute;
   bottom: 0vh;
   left: 0vh;
+  padding: 0;
+  margin: 0;
 }
 
 /* プロフィール */
