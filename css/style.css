@@ -238,7 +238,7 @@ button.btn {
 }
 
 .heading18 {
-  width:180px;
+  width:192px;
 	padding: 0px 0 0 0;
 	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
@@ -271,7 +271,7 @@ button.btn {
 }
 
 .heading21 {
-  width:82px;
+  width:100px;
 	padding: 0px 0 0 0;
 	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
@@ -1564,9 +1564,9 @@ section#Banner.banner.section{
 }
 
 .heading17 {
-  width:270px;
+  width:350px;
 	padding: 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
@@ -1575,9 +1575,9 @@ section#Banner.banner.section{
 }
 
 .heading18 {
-  width:145px;
+  width:185px;
 	padding: 0px 0 0 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
@@ -1586,9 +1586,9 @@ section#Banner.banner.section{
 }
 
 .heading19 {
-  width:300px;
+  width:375px;
 	padding: 0px 0 0 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
@@ -1597,14 +1597,36 @@ section#Banner.banner.section{
 }
 
 .heading20 {
-  width:200px;
+  width:250px;
 	padding: 0px 0 0 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
 	background-position: center bottom;
   margin-bottom: 10px;
+}
+
+.heading21 {
+  width:100px;
+	padding: 0px 0 0 0;
+	font-size: 40px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
+}
+
+.heading22 {
+  width:420px;
+	padding: 0px 0 0 0;
+	font-size: 40px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
 }
 
 .works{
@@ -2188,7 +2210,7 @@ body {
 .heading11::before {
   content: attr(data-number);
   display: block;
-  margin: 10px 0 20px 0;
+  margin: 18px 0 20px 0;
   color: #ED9215;
   font-size: 50px;
 }
@@ -2792,7 +2814,7 @@ body {
 .heading11::before {
 	content: attr(data-number);
 	display: block;
-	margin: 0px 0 20px 0;
+	margin: 10px 0 20px 0;
 	color: #ED9215;
 	font-size: 50px;
 }
@@ -2809,9 +2831,9 @@ body {
 }
 
 .heading17 {
-  width:280px;
+  width:340px;
 	padding: 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
@@ -2820,9 +2842,9 @@ body {
 }
 
 .heading18 {
-  width:145px;
+  width:200px;
 	padding: 0px 0 0 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
@@ -2831,9 +2853,9 @@ body {
 }
 
 .heading19 {
-  width:300px;
+  width:380px;
 	padding: 0px 0 0 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
@@ -2842,14 +2864,36 @@ body {
 }
 
 .heading20 {
-  width:200px;
+  width:250px;
 	padding: 0px 0 0 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
 	background-position: center bottom;
   margin-bottom: 10px;
+}
+
+.heading21 {
+  width:100px;
+	padding: 0px 0 0 0;
+	font-size: 40px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
+}
+
+.heading22 {
+  width:420px;
+	padding: 0px 0 0 0;
+	font-size: 40px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
 }
 
 .works{
@@ -3244,7 +3288,7 @@ body {
 .heading11::before {
 	content: attr(data-number);
 	display: block;
-	margin: 0px 0 18px 0;
+	margin: 10px 0 18px 0;
 	color: #ED9215;
 	font-size: 50px;
 }
@@ -3261,9 +3305,9 @@ body {
 }
 
 .heading17 {
-  width:330px;
+  width:350px;
 	padding: 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
@@ -3272,9 +3316,9 @@ body {
 }
 
 .heading18 {
-  width:145px;
+  width:200px;
 	padding: 0px 0 0 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
@@ -3283,9 +3327,9 @@ body {
 }
 
 .heading19 {
-  width:300px;
+  width:380px;
 	padding: 0px 0 0 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
@@ -3294,14 +3338,36 @@ body {
 }
 
 .heading20 {
-  width:200px;
+  width:260px;
 	padding: 0px 0 0 0;
-	font-size: 32px;
+	font-size: 40px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
 	background-size: 4px 4px;
 	background-repeat: repeat-x;
 	background-position: center bottom;
   margin-bottom: 10px;
+}
+
+.heading21 {
+  width:100px;
+	padding: 0px 0 0 0;
+	font-size: 40px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
+}
+
+.heading22 {
+  width:420px;
+	padding: 0px 0 0 0;
+	font-size: 40px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
 }
 
 .works{
@@ -4595,7 +4661,7 @@ nav.globalMenuSp.active {
 }
 
 .heading17 {
-  width:330px;
+  width:280px;
 	padding: 0;
 	font-size: 32px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
@@ -4606,7 +4672,7 @@ nav.globalMenuSp.active {
 }
 
 .heading18 {
-  width:145px;
+  width:150px;
 	padding: 0px 0 0 0;
 	font-size: 32px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
@@ -4636,6 +4702,28 @@ nav.globalMenuSp.active {
 	background-repeat: repeat-x;
 	background-position: center bottom;
   margin-bottom: 10px;
+}
+
+.heading21 {
+  width:85px;
+	padding: 0px 0 0 0;
+	font-size: 32px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
+}
+
+.heading22 {
+  width:330px;
+	padding: 0px 0 0 0;
+	font-size: 32px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
 }
 
 .works{
@@ -5090,7 +5178,7 @@ nav.globalMenuSp.active {
 }
 
 .heading17 {
-  width:270px;
+  width:290px;
 	padding: 0;
 	font-size: 32px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
@@ -5101,7 +5189,7 @@ nav.globalMenuSp.active {
 }
 
 .heading18 {
-  width:145px;
+  width:160px;
 	padding: 0px 0 0 0;
 	font-size: 32px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
@@ -5131,6 +5219,28 @@ nav.globalMenuSp.active {
 	background-repeat: repeat-x;
 	background-position: center bottom;
   margin-bottom: 10px;
+}
+
+.heading21 {
+  width:85px;
+	padding: 0px 0 0 0;
+	font-size: 32px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
+}
+
+.heading22 {
+  width:330px;
+	padding: 0px 0 0 0;
+	font-size: 32px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
 }
 
 .works{
@@ -6067,7 +6177,7 @@ body {
 }
 
 .heading17 {
-  width:270px;
+  width:280px;
 	padding: 0;
 	font-size: 32px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
@@ -6078,7 +6188,7 @@ body {
 }
 
 .heading18 {
-  width:145px;
+  width:160px;
 	padding: 0px 0 0 0;
 	font-size: 32px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
@@ -6108,6 +6218,28 @@ body {
 	background-repeat: repeat-x;
 	background-position: center bottom;
   margin-bottom: 10px;
+}
+
+.heading21 {
+  width:85px;
+	padding: 0px 0 0 0;
+	font-size: 32px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
+}
+
+.heading22 {
+  width:330px;
+	padding: 0px 0 0 0;
+	font-size: 32px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
 }
 
 .works{
@@ -6530,7 +6662,7 @@ body {
 }
 
 .heading17 {
-  width:270px;
+  width:290px;
 	padding: 0;
 	font-size: 32px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
@@ -6541,7 +6673,7 @@ body {
 }
 
 .heading18 {
-  width:145px;
+  width:160px;
 	padding: 0px 0 0 0;
 	font-size: 32px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
@@ -6571,6 +6703,28 @@ body {
 	background-repeat: repeat-x;
 	background-position: center bottom;
   margin-bottom: 10px;
+}
+
+.heading21 {
+  width:85px;
+	padding: 0px 0 0 0;
+	font-size: 32px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
+}
+
+.heading22 {
+  width:310px;
+	padding: 0px 0 0 0;
+	font-size: 30px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
 }
 
 .works{
@@ -6946,7 +7100,7 @@ body {
 }
 
 .heading18 {
-  width:145px;
+  width:150px;
 	padding: 0px 0 0 0;
 	font-size: 32px;
 	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
@@ -6976,6 +7130,28 @@ body {
 	background-repeat: repeat-x;
 	background-position: center bottom;
   margin-bottom: 10px;
+}
+
+.heading21 {
+  width:85px;
+	padding: 0px 0 0 0;
+	font-size: 32px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
+}
+
+.heading22 {
+  width:230px;
+	padding: 0px 0 0 0;
+	font-size: 32px;
+	background-image: repeating-linear-gradient(90deg, #CFE04C 0, #CFE04C 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 4px);
+	background-size: 4px 4px;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+  margin-bottom: 20px;
 }
 
 .works{
