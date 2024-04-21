@@ -4266,7 +4266,7 @@ nav.globalMenuSp.active {
 
 @media screen and (max-width: 430px) {
 /* Works */
-.works{
+/*.works{
   margin-top: 400px;
 }
 
@@ -4356,7 +4356,7 @@ nav.globalMenuSp.active {
   position: relative;
   /*ぼかしのあるシャドウ box-shadow: 3px  5px 10px 1px #f0f09b;＊/
   /*box-shadow: 水平方向の影の位置px  垂直方向の影の位置px ぼかしpx 広がりpx 色 内側指定;*/
-}
+/*}*/
 
 
 .header-logo img{
