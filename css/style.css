@@ -126,7 +126,11 @@ html {
  レイアウト
 ---------------------------------*/
 .section {
-  padding: 0px 0 5px 0;
+  padding: 80px 0 5px 0;
+}
+
+section2{
+  padding: 0;
 }
 
 .inner {
@@ -1354,6 +1358,10 @@ section#Banner.banner.section{
     padding: 40px 0;
   }
 
+  .section02 {
+    padding: 0;
+  }
+
   .inner {
     padding: 0 15px;
   }
@@ -1775,6 +1783,10 @@ body {
 /* レイアウト */
 .section {
   padding: 40px 0;
+}
+
+.section2 {
+  padding: 0;
 }
 
 .inner {
@@ -2504,6 +2516,10 @@ body {
   padding: 40px 0;
 }
 
+.section2 {
+  padding: 0;
+}
+
 .inner {
   padding: 0 15px;
 }
@@ -3032,6 +3048,10 @@ body {
   padding: 40px 0;
 }
 
+.section2 {
+  padding: 0;
+}
+
 .inner {
   padding: 0 15px;
 }
@@ -3542,6 +3562,10 @@ body {
   padding: 40px 0;
 }
 
+.section2 {
+  padding: 0;
+}
+
 .inner {
   padding: 0 15px;
 }
@@ -3970,6 +3994,10 @@ body {
 /* レイアウト */
 .section {
   padding: 40px 0;
+}
+
+.section2 {
+  padding: 0;
 }
 
 .inner {
@@ -5405,6 +5433,10 @@ body {
   padding: 40px 0;
 }
 
+.section2 {
+  padding: 0;
+}
+
 .inner {
   padding: 0 15px;
 }
@@ -6280,6 +6312,10 @@ body {
   padding: 40px 0;
 }
 
+.section2 {
+  padding: 0;
+}
+
 .inner {
   padding: 0 15px;
 }
@@ -6685,6 +6721,10 @@ body {
 /* レイアウト */
 .section {
   padding: 40px 0;
+}
+
+.section2 {
+  padding: 0;
 }
 
 .inner {
