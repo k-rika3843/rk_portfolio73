@@ -1,4 +1,8 @@
 @charset "UTF-8";
+.wrap_original {
+  overflow: hidden;
+}
+
 *:before,
 *:after {
   -webkit-box-sizing: inherit;
