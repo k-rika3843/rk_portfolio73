@@ -1,5 +1,4 @@
 body {
-  -webkit-text-size-adjust: 100%;
   font-family: "Hiragino Kaku Gothic ProN";
   font-size: 14px;
   line-height: 1.8;
@@ -34,6 +33,18 @@ li {
 }
 img {
   width:100%;
+}
+
+.mainPhoto {
+  width:900px;
+  height: 600px;
+  overflow:hidden;
+  margin:0 auto;
+  position:relative;
+}
+
+h1,h2,h3 {
+  font-size:200%;
 }
 
 p {
@@ -91,12 +102,6 @@ html {
   -webkit-transition: all .2s cubic-bezier(.785,.135,.15,.86);
   transition: all .2s cubic-bezier(.785,.135,.15,.86);
 }
-
-#firstView {
-  height: 100vh;   /* ※非対応ブラウザ対策 */
-  height: calc(var(--vh) * 100);
-}
-
 
 /*--------------------------------
  Webフォント
@@ -422,7 +427,6 @@ position:relative;
   top: 44%;
   left: 50%;
   transform: translate(-50%, -50%);
-  margin-bottom: 0;
 }
 
 .main03 {
@@ -501,9 +505,6 @@ position:relative;
   vertical-align:middle;
   width:100%;
   height:100%;
-  top:0;
-  margin:0;
-  padding:0;
 }
 
 #scroll-down {
@@ -1252,16 +1253,6 @@ section#Banner.banner.section{
     width: 101vw;
   }
 
-  #scroll-icon-inner {
-    display: table-cell;
-    vertical-align:middle;
-    width:100%;
-    height:100%;
-    top:0;
-    margin:0;
-    padding:0;
-  }
-
 }
 
 @media screen and (min-width: 1025px){
@@ -1498,16 +1489,6 @@ section#Banner.banner.section{
  /* ハンバーガーメニュー　終わり */
 
 /* メインビジュアル */
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
-
 .main-visual-img {
   height: 100vh;
   background-color: #fff;
@@ -1533,9 +1514,17 @@ section#Banner.banner.section{
 }
 
 /* プロフィール */
+.profile {
+  padding: 0.01px 0;
+  background-color: #FCF7CD;
+}
 
 .profile-title {
   font-size: 36px;
+}
+
+.profile-top{
+  padding-top: 20px;
 }
 
 /* Works */
@@ -1685,7 +1674,7 @@ section#Banner.banner.section{
 }
 
 .profile {
-  padding: 0px;
+  padding: 30px 0;
 }
 
 .profile-title {
@@ -1693,7 +1682,7 @@ section#Banner.banner.section{
 }
 
 .profile-top {
-  padding-top: 0px;
+  padding-top: 50px;
   height:750px;
   background-color: #FCF7CD;
   position: relative;
@@ -1911,16 +1900,6 @@ body {
  /* ハンバーガーメニュー　終わり */
 
 /* メインビジュアル */
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
-
 .main-visual-img {
   height: 100vh;
   background-color: #ffffff;
@@ -1958,8 +1937,15 @@ body {
 }*/
 
 /* プロフィール */
+.profile {
+  padding: 30px 0;
+}
 .profile-title {
   font-size: 36px;
+}
+
+.profile-top{
+  padding-top: 50px;
 }
 
 /* Works */
@@ -2196,31 +2182,10 @@ body {
   color: #ED9215;
   font-size: 50px;
 }
-
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
-
 }
 
 @media screen and (max-width: 853px) {
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
-
-  /* Works */
+/* Works */
 .tab-wrap {
   display: flex;
   justify-content: center;
@@ -2667,16 +2632,6 @@ body {
  /* ハンバーガーメニュー　終わり */
 
 /* メインビジュアル */
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
-
 .main-visual-img {
   height: 100vh;
   background-color: #ffffff;
@@ -2714,9 +2669,17 @@ body {
 }*/
 
 /* プロフィール */
+.profile {
+  padding: 30px 0;
+}
 .profile-title {
   font-size: 36px;
 }
+
+.profile-top{
+  padding-top: 50px;
+}
+
 /* Works */
 .btn-works-wrapper{
   text-align: center;
@@ -3012,11 +2975,16 @@ body {
 }
 
  /* プロフィール */
+ .profile {
+  padding: 30px 0;
+}
+
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
+  padding-top: 50px;
   height:750px;
   background-color: #FCF7CD;
   position: relative;
@@ -3192,16 +3160,6 @@ body {
  /* ハンバーガーメニュー　終わり */
 
 /* メインビジュアル */
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
-
 .main-visual-img {
   height: 100vh;
   background-color: #ffffff;
@@ -3238,17 +3196,18 @@ body {
   background-image: url(../img/main_sp.jpg);
 }*/
 
-
-
  /* プロフィール */
+.profile {
+  padding: 30px 0;
+}
 
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
-  /*padding-top: 50px;
-  height:750px;*/
+  padding-top: 50px;
+  height:750px;
   background-color: #FCF7CD;
   position: relative;
 }
@@ -3459,7 +3418,6 @@ body {
 .skill-item:last-child {
   margin-bottom: 0;
 }
-
 
 /* Works */
 .btn-works-wrapper{
@@ -3746,15 +3704,6 @@ nav.globalMenuSp.active {
   height: 100px;
   background-image: url(../img/main_sp.jpg);
 }*/
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
 
 /* プロフィール */
  /* 吹き出し */
@@ -3793,9 +3742,17 @@ nav.globalMenuSp.active {
   z-index: 1;
 }
 
+.profile {
+  padding: 30px 0;
+}
 .profile-title {
   font-size: 36px;
 }
+
+.profile-top{
+  padding-top: 50px;
+}
+
 
 /* Works */
 .works{
@@ -4177,19 +4134,17 @@ nav.globalMenuSp.active {
   height: 100px;
   background-image: url(../img/main_sp.jpg);
 }*/
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
 
 /* プロフィール */
+.profile {
+  padding: 30px 0;
+}
 .profile-title {
   font-size: 36px;
+}
+
+.profile-top{
+  padding-top: 50px;
 }
 
 /* Works */
@@ -4296,16 +4251,7 @@ nav.globalMenuSp.active {
 }
 
 @media screen and (max-width: 430px) {
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
-  /* Works */
+/* Works */
 .works{
   margin-top: 400px;
 }
@@ -4735,12 +4681,16 @@ nav.globalMenuSp.active {
  /* ハンバーガーメニュー　終わり */
 
  /* プロフィール */
+.profile {
+  padding: 30px 0;
+}
 
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
+  padding-top: 50px;
   height:900px;
   background-color: #FCF7CD;
   position: relative;
@@ -4997,16 +4947,6 @@ nav.globalMenuSp.active {
   border: 11px solid transparent;
   border-bottom: 16px solid #CFE04C;
   z-index: 1;
-}
-
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
 }
 
 /* Works */
@@ -5323,12 +5263,16 @@ nav.globalMenuSp.active {
 }
 
 /* プロフィール */
+.profile {
+  padding: 30px 0;
+}
 
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
+  padding-top: 50px;
   height:900px;
   background-color: #FCF7CD;
   position: relative;
@@ -5341,22 +5285,12 @@ nav.globalMenuSp.active {
 }
 
 @media screen and (max-width: 390px) {
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
-
 .header-logo img{
-position: absolute;
-margin-top:-1px;
-left:15px;
-width:54px;
-}
+  position: absolute;
+  margin-top:-1px;
+  left:15px;
+  width:54px;
+  }
 
 .header{
   height: 65px;
@@ -5671,9 +5605,6 @@ body {
   vertical-align:middle;
   width:100%;
   height:100%;
-  top:0;
-  margin:0;
-  padding:0;
 }
 
 #scroll-down {
@@ -5938,11 +5869,16 @@ body {
 }
 
 /* プロフィール */
+.profile {
+  padding: 30px 0;
+}
+
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
+  padding-top: 50px;
   height:900px;
   background-color: #FCF7CD;
   position: relative;
@@ -6515,23 +6451,17 @@ body {
   background-image: url(../img/main_sp.jpg);
 }*/
 
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
-
 /* プロフィール */
+.profile {
+  padding: 30px 0;
+}
 
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
+  padding-top: 50px;
   height:1000px;
   background-color: #FCF7CD;
   position: relative;
@@ -6925,22 +6855,16 @@ body {
   background-image: url(../img/main_sp.jpg);
 }*/
 
-#scroll-icon-inner {
-  display: table-cell;
-  vertical-align:middle;
-  width:100%;
-  height:100%;
-  top:0;
-  margin:0;
-  padding:0;
-}
-
 /* プロフィール */
+.profile {
+  padding: 30px 0;
+}
 .profile-title {
   font-size: 36px;
 }
 
 .profile-top {
+  padding-top: 50px;
   height:1150px;
   background-color: #FCF7CD;
   position: relative;
