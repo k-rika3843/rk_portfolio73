@@ -1,8 +1,4 @@
 @charset "UTF-8";
-.wrap_original {
-overflow: hidden;
-}
-
 *:before,
 *:after {
   -webkit-box-sizing: inherit;
@@ -500,7 +496,7 @@ position:relative;
     }
 }
 
-.scroll-icon-inner {
+#scroll-icon-inner {
   display: table-cell;
   vertical-align:middle;
   width:100%;
